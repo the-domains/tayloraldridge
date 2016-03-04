@@ -1,0 +1,28 @@
+name: tayloraldridge
+favicon: null
+layout_spectrum: 0.4704354787245393
+typography_spectrum: 0.3530713461805135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5574701654259115
+  lightness: 0.6490686181932688
+  saturation: 0.4856507380027324
+  rhythmicContrast: 0.3077350847888738
+purpose: []
